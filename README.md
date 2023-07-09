@@ -32,43 +32,51 @@
 
   ---
 
-  ### :call_me_hand: CONTACT WITH ME
+  <h3 align="center">
+    :call_me_hand: CONTACT WITH ME :call_me_hand:
+  </h3>
 
-  <div>
+  <p align="center">
     <a href="https://t.me/novatesource" target="_blank">
       <img src="https://i.imgur.com/qbW4p8Y.png" width="40" height="40" title="Telegram" alt="Telegram" />
     </a>
     <a href="https://discord.gg/dYqtDrm6Ju" target="_blank">
       <img src="https://i.imgur.com/TFvPWEX.png" width="40" height="40" title="Discord" alt="Discord" />
     </a>
-  </div>
+  </p>
 
   ---
 
-  ### :desktop_computer: MY TECHNOLOGIES
+  <h3 align="center">
+    :desktop_computer: MY TECHNOLOGIES :desktop_computer:
+  </h3>
 
-  <div>
+  <p align="center">
     <img src="https://i.imgur.com/Fgfvwuq.png" title="C#" alt="C#" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/4nbUCQQ.png" title="Pawn" alt="Pawn" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/IBNC1FY.png" title="Lua" alt="Lua" width="40" height="40"/>&nbsp
-  </div>
+  </p>
 
   ---
 
-  ### :desktop_computer: MY TOOLS
+  <h3 align="center">
+    :toolbox: MY TOOLS :toolbox:
+  </h3>
 
-  <div>
+  <p align="center">
     <img src="https://i.imgur.com/dFqa9pB.png" title="Visual Studio & Visual Studio Code" alt="Visual Studio & Visual Studio Code" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/35E57JD.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/y3JQnVh.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/6H1Z21j.png" title="Git" alt="Git" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/Ubx0JZU.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/CEXIobQ.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp
-  </div>
+  </p>
 
   ---
 
-  ### :gear: GITHUB STATISTICS
+  <h3 align="center">
+    :gear: GITHUB STATISTICS :gear:
+  </h3>
 
   <table>
     <tr>
@@ -111,43 +119,51 @@
 
   ---
 
-  ### :call_me_hand: СВЯЗЬ СО МНОЙ
+  <h3 align="center">
+    :call_me_hand: СВЯЗЬ СО МНОЙ :call_me_hand:
+  </h3>
 
-  <div>
+  <p align="center">
     <a href="https://t.me/novatesource" target="_blank">
       <img src="https://i.imgur.com/qbW4p8Y.png" width="40" height="40" title="Telegram" alt="Telegram" />
     </a>
     <a href="https://discord.gg/dYqtDrm6Ju" target="_blank">
       <img src="https://i.imgur.com/TFvPWEX.png" width="40" height="40" title="Discord" alt="Discord" />
     </a>
-  </div>
+  </p>
 
   ---
 
-  ### :desktop_computer: МОИ ТЕХНОЛОГИИ
+  <h3 align="center">
+    :desktop_computer: МОИ ТЕХНОЛОГИИ :desktop_computer:
+  </h3>
 
-  <div>
+  <p align="center">
     <img src="https://i.imgur.com/Fgfvwuq.png" title="C#" alt="C#" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/4nbUCQQ.png" title="Pawn" alt="Pawn" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/IBNC1FY.png" title="Lua" alt="Lua" width="40" height="40"/>&nbsp
-  </div>
+  </p>
 
   ---
 
-  ### :desktop_computer: МОИ ИНСТРУМЕНТЫ
+  <h3 align="center">
+    :toolbox: МОИ ИНСТРУМЕНТЫ :toolbox:
+  </h3>
 
-  <div>
+  <p align="center">
     <img src="https://i.imgur.com/dFqa9pB.png" title="Visual Studio & Visual Studio Code" alt="Visual Studio & Visual Studio Code" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/35E57JD.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/y3JQnVh.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/6H1Z21j.png" title="Git" alt="Git" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/Ubx0JZU.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/CEXIobQ.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp
-  </div>
+  </p>
 
   ---
 
-  ### :gear: GITHUB СТАТИСТИКА
+  <h3 align="center">
+    :gear: GITHUB СТАТИСТИКА :gear:
+  </h3>
 
   <table>
     <tr>
