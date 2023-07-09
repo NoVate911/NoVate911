@@ -1,11 +1,15 @@
-# :compass: CHOOSE A LANGUAGE :compass:
+<h1 align="center">
+  :compass: CHOOSE A LANGUAGE / ВЫБЕРИТЕ ЯЗЫК :compass:
+</h1>
 
----
+<br/>
 
 <details>
-  <summary><b>ENGLISH</b></summary>
+  <summary align="center"><b>ENGLISH</b></summary>
 
-  # Welcome to my profile!
+  <h2 align="center">
+    WELCOME TO MY PROFILE!
+  </h2>
 
   ### :information_source: ABOUT ME
 
@@ -80,9 +84,11 @@
 </details>
 
 <details>
-  <summary><b>RUSSIAN</b></summary>
-  
-  # Добро пожаловать в мой профиль!
+  <summary align="center"><b>RUSSIAN</b></summary>
+
+  <h2 align="center">
+    ДОБРО ПОЖАЛОВАТЬ В МОЙ ПРОФИЛЬ!
+  </h2>
   
   ### :information_source: ОБО МНЕ
   
@@ -155,5 +161,7 @@
   </table>
   
 </details>
+
+<br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NoVate911)
