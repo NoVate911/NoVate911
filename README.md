@@ -37,6 +37,9 @@
   </h3>
 
   <p align="center">
+    <a href="https://vk.com/novate911" target="_blank">
+      <img src="https://i.imgur.com/fpLQPBJ.png" width="40" height="40" title="Vk" alt="Vk" />
+    </a>
     <a href="https://t.me/novatesource" target="_blank">
       <img src="https://i.imgur.com/qbW4p8Y.png" width="40" height="40" title="Telegram" alt="Telegram" />
     </a>
@@ -124,6 +127,9 @@
   </h3>
 
   <p align="center">
+    <a href="https://vk.com/novate911" target="_blank">
+      <img src="https://i.imgur.com/fpLQPBJ.png" width="40" height="40" title="Vk" alt="Vk" />
+    </a>
     <a href="https://t.me/novatesource" target="_blank">
       <img src="https://i.imgur.com/qbW4p8Y.png" width="40" height="40" title="Telegram" alt="Telegram" />
     </a>
