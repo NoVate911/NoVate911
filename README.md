@@ -11,7 +11,9 @@
     🐼 WELCOME TO MY PROFILE 🐼
   </h2>
 
-  ### :information_source: ABOUT ME
+  <h3 align="center">
+    ℹ️ ABOUT ME ℹ️
+  </h3>
 
   **Hi** :hand:\
   My name is **Eugene** and I'm glad to see you in my Github profile. I think you're here for a long time.
@@ -23,7 +25,9 @@
 
   ---
 
-  ### :bar_chart: MY PROJECTS
+  <h3 align="center">
+    📊 MY PROJECTS 📊
+  </h3>
 
   - [x] **NoVate Source** - the main project. It was opened in late 2021 and early 2022. The project was part of a portfolio where I could publish my work, but after that it grew into something more. Even this can be considered some kind of small company, since all the works that are published are related to this project. The name came from my nickname, to which I added the word "Source", which means "Source" in translation.
   - [x] **RITCOT Design** - a secondary project that is related to the design. The idea to open my own design studio arose back in 2020, but I decided to do it only in 2021. Unfortunately, it is not possible to devote a lot of time to this project, as we would like, but it is active and works to this day.
@@ -82,8 +86,10 @@
   <h2 align="center">
     🐼 ДОБРО ПОЖАЛОВАТЬ В МОЙ ПРОФИЛЬ 🐼
   </h2>
-  
-  ### :information_source: ОБО МНЕ
+
+  <h3 align="center">
+    ℹ️ ОБО МНЕ ℹ️
+  </h3>
   
   **Привет** :hand:\
   Меня зовут **Евгений** и я рад видеть тебя в моём профиле Github. Я думаю, ты здесь надолго.
@@ -95,7 +101,9 @@
 
   ---
 
-  ### :bar_chart: МОИ ПРОЕКТЫ
+  <h3 align="center">
+    📊 МОИ ПРОЕКТЫ 📊
+  </h3>
 
   - [x] **NoVate Source** - основной проект. Был открыт в конце 2021 и начале 2022 годов. Проект являлся от части портфолио, где я мог публиковать свои работы, но после перерос в что-то большее. Можно считать даже это какой-то маленькой компанией, так как все работы, которые публикуются имеют отношения к этому проекту. Название появилось от моего ника к которому я добавил слово "Source", что в переводе обозначает "Источник".
   - [x] **RITCOT Design** - второстепенный проект, который связан с дизайном. Задумка открыть свою студию по разработке дизайна возникла ещё в 2020 году, но решился я сделать это только в 2021. Не получается уделять много времени данному проекту, как хотелось бы, к сожалению, но он активен и работает по сей день.
