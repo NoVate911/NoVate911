@@ -1,5 +1,5 @@
 <h1 align="center">
-  :compass: CHOOSE A LANGUAGE / ВЫБЕРИТЕ ЯЗЫК :compass:
+  🧭 CHOOSE A LANGUAGE / ВЫБЕРИТЕ ЯЗЫК 🧭
 </h1>
 
 <br/>
@@ -8,7 +8,7 @@
   <summary align="center"><b>ENGLISH</b></summary>
 
   <h2 align="center">
-    WELCOME TO MY PROFILE!
+    🐼 WELCOME TO MY PROFILE 🐼
   </h2>
 
   ### :information_source: ABOUT ME
@@ -25,15 +25,14 @@
 
   ### :bar_chart: MY PROJECTS
 
-  By my **17th birthday** I had **three** of my main organizations.
-  - [x] The first one was opened in **2020** and was named **Jetix Studio**. She is engaged in game development and continues to exist at the moment.
-  - [x] My next project was opened in **2021** and named **RITCOT Design**. Since I was good friends with **Photoshop** and programs for this purpose, I did custom UI design for various needs: websites, servers, launchers, and so on. This studio exists to this day.
-  - [x] And my most recent and up-to-date project was opened at the end of **2021** and at the beginning of **2022** under the name **NoVate Source**. This project was my portfolio, where I could publish my work, as well as publish posts that might interest anyone. This project is relevant at the moment.
+  - [x] **NoVate Source** - the main project. It was opened in late 2021 and early 2022. The project was part of a portfolio where I could publish my work, but after that it grew into something more. Even this can be considered some kind of small company, since all the works that are published are related to this project. The name came from my nickname, to which I added the word "Source", which means "Source" in translation.
+  - [x] **RITCOT Design** - a secondary project that is related to the design. The idea to open my own design studio arose back in 2020, but I decided to do it only in 2021. Unfortunately, it is not possible to devote a lot of time to this project, as we would like, but it is active and works to this day.
+  - [ ] **Jetix Studio** - the project, which opened in 2020, and the main task and goal of the project was the development of mobile games. On behalf of this studio, one game was released that had a large number of bugs and soon this studio was closed on my initiative.
 
   ---
 
   <h3 align="center">
-    :call_me_hand: CONTACT WITH ME :call_me_hand:
+    🤙 CONTACT WITH ME 🤙
   </h3>
 
   <p align="center">
@@ -51,7 +50,7 @@
   ---
 
   <h3 align="center">
-    :desktop_computer: MY TECHNOLOGIES :desktop_computer:
+    🖥️ MY TECHNOLOGIES 🖥️
   </h3>
 
   <p align="center">
@@ -63,7 +62,7 @@
   ---
 
   <h3 align="center">
-    :toolbox: MY TOOLS :toolbox:
+    🧰 MY TOOLS 🧰
   </h3>
 
   <p align="center">
@@ -74,23 +73,6 @@
     <img src="https://i.imgur.com/Ubx0JZU.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/CEXIobQ.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp
   </p>
-
-  ---
-
-  <h3 align="center">
-    :gear: GITHUB STATISTICS :gear:
-  </h3>
-
-  <table>
-    <tr>
-      <td>
-        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=NoVate911&theme=dark&background=000000"/>
-      </td>
-      <td>
-        <img height="195px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NoVate911&layout=compact&theme=vision-friendly-dark"/>
-      </td>
-    </tr>
-  </table>
   
 </details>
 
@@ -98,7 +80,7 @@
   <summary align="center"><b>RUSSIAN</b></summary>
 
   <h2 align="center">
-    ДОБРО ПОЖАЛОВАТЬ В МОЙ ПРОФИЛЬ!
+    🐼 ДОБРО ПОЖАЛОВАТЬ В МОЙ ПРОФИЛЬ 🐼
   </h2>
   
   ### :information_source: ОБО МНЕ
@@ -115,15 +97,14 @@
 
   ### :bar_chart: МОИ ПРОЕКТЫ
 
-  К моему **17-ти летию** у меня было **три** моих основных организаций.
-  - [x] Первая была открыта в **2020 году** и была названа **Jetix Studio**. Она занимается разработкой игр и продолжает своё существование в данный момент.
-  - [x] Следующий мой проект был открыт в **2021 году** и назван **RITCOT Design**. Так как я хорошо дружил с **Photoshop** и программами данного назначения, то я делал UI дизайн под заказ для различных нужд: сайты, сервера, лаунчеры и так далее. Данная студия существует по сей день.
-  - [x] И мой самый свежий и актуальный проект был открыт в конце **2021 года** и в начале **2022 года** под названием **NoVate Source**. Этот проект являлся моим портфолио, куда я мог публиковать свои работы, а так же публиковать посты, которые могли бы заинтересовать кого-либо. Этот проект актуален в данный момент.
+  - [x] **NoVate Source** - основной проект. Был открыт в конце 2021 и начале 2022 годов. Проект являлся от части портфолио, где я мог публиковать свои работы, но после перерос в что-то большее. Можно считать даже это какой-то маленькой компанией, так как все работы, которые публикуются имеют отношения к этому проекту. Название появилось от моего ника к которому я добавил слово "Source", что в переводе обозначает "Источник".
+  - [x] **RITCOT Design** - второстепенный проект, который связан с дизайном. Задумка открыть свою студию по разработке дизайна возникла ещё в 2020 году, но решился я сделать это только в 2021. Не получается уделять много времени данному проекту, как хотелось бы, к сожалению, но он активен и работает по сей день.
+  - [ ] **Jetix Studio** - проект, который открылся в 2020 году и основная задача и цель проекта была - разработка мобильных игр. От лица данной студии вышла одна игра, которая имела большое количество багов и вскоре данная студия была закрыта по моей инициативе.
 
   ---
 
   <h3 align="center">
-    :call_me_hand: СВЯЗЬ СО МНОЙ :call_me_hand:
+    🤙 СВЯЗЬ СО МНОЙ 🤙
   </h3>
 
   <p align="center">
@@ -141,7 +122,7 @@
   ---
 
   <h3 align="center">
-    :desktop_computer: МОИ ТЕХНОЛОГИИ :desktop_computer:
+    🖥️ МОИ ТЕХНОЛОГИИ 🖥️
   </h3>
 
   <p align="center">
@@ -153,7 +134,7 @@
   ---
 
   <h3 align="center">
-    :toolbox: МОИ ИНСТРУМЕНТЫ :toolbox:
+    🧰 МОИ ИНСТРУМЕНТЫ 🧰
   </h3>
 
   <p align="center">
@@ -164,26 +145,20 @@
     <img src="https://i.imgur.com/Ubx0JZU.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
     <img src="https://i.imgur.com/CEXIobQ.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp
   </p>
-
-  ---
-
-  <h3 align="center">
-    :gear: GITHUB СТАТИСТИКА :gear:
-  </h3>
-
-  <table>
-    <tr>
-      <td>
-        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=NoVate911&theme=dark&background=000000"/>
-      </td>
-      <td>
-        <img height="195px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NoVate911&layout=compact&theme=vision-friendly-dark"/>
-      </td>
-    </tr>
-  </table>
   
 </details>
 
 <br/>
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=NoVate911&theme=dark&background=000000"/>
+    </td>
+    <td>
+      <img height="195px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NoVate911&layout=compact&theme=vision-friendly-dark"/>
+    </td>
+  </tr>
+</table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NoVate911)
