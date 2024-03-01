@@ -21,7 +21,7 @@
   - At **12 years old** I sat down for programming for the first time, or rather for the Unity game engine and tried to write something in C#. After much agony, I abandoned this case.
   - A year and a half later, at the age of **13**, I gathered the courage and determination to write my first Unity game. I did it! My first game was released on the Play Market and unfortunately did not gain popularity..
   - In **15 years** I knew C# at a good level and could write a fairly large-scale and high-quality product that would gain popularity. In addition to C#, I was fond of: Pawn, Lua, JavaScript and many other programming languages, but I only know Pawn and Lua at a good level.
-  - At **17 years old** I learned 3 programming languages to the end: C#, Pawn, Lua and wrote various scripts to order.
+  - At **17 years old** I learned 3 programming languages to the end: C# (Junior), Pawn (Senior), Lua (Junior) and wrote various scripts to order.
 
   ---
 
@@ -30,8 +30,8 @@
   </h3>
 
   - [x] **NoVate Source** - the main project. It was opened in late 2021 and early 2022. The project was part of a portfolio where I could publish my work, but after that it grew into something more. Even this can be considered some kind of small company, since all the works that are published are related to this project. The name came from my nickname, to which I added the word "Source", which means "Source" in translation.
-  - [x] **RITCOT Design** - a secondary project that is related to the design. The idea to open my own design studio arose back in 2020, but I decided to do it only in 2021. Unfortunately, it is not possible to devote a lot of time to this project, as we would like, but it is active and works to this day.
-  - [ ] **Jetix Studio** - the project, which opened in 2020, and the main task and goal of the project was the development of mobile games. On behalf of this studio, one game was released that had a large number of bugs and soon this studio was closed on my initiative.
+  - [x] **NoVate Design** - a secondary project that is related to the design. The idea to open my own design studio arose back in 2020, but I decided to do it only in 2021. Unfortunately, it is not possible to devote a lot of time to this project, as we would like. In early 2024, the studio underwent a rebranding and changed its name to "NoVate Design".
+  - [x] **NoVate LTD** - the project, which opened in 2020 under the trademark "Jetix Studio" and the main task and goal of the project was the development of mobile games. On behalf of this studio, one game was released that had a large number of bugs and soon this studio was closed on my initiative. In 2024, the studio rebranded and changed its name to "NoVate LTD".
 
   ---
 
@@ -97,7 +97,7 @@
   - В **12 лет** я первый раз сел за программирование, а точнее за игровой движок Unity и попытался что-то написать на C#. После долгих мучений я забросил это дело.
   - Спустя полтора года, в **13 лет** я набрался смелости и решительности для написания своей первой игры на Unity. Я сделал это! Моя первая игра вышла в Play Market и к сожалению не набрала популярности..
   - В **15 лет** я знал C# на хорошем уровне и мог написать довольно масштабный и качественный продукт, который обрёл бы популярность. Помимо C# я увлекался: Pawn, Lua, JavaScript и множество других языков программирования, но на хорошем уровне знаю только Pawn и Lua.
-  - В **17 лет** я до конца выучил 3 языка программирования: C#, Pawn, Lua и писал различные скрипты под заказ.
+  - В **17 лет** я до конца выучил 3 языка программирования: C# (Junior), Pawn (Senior), Lua (Junior) и писал различные скрипты под заказ.
 
   ---
 
@@ -106,8 +106,8 @@
   </h3>
 
   - [x] **NoVate Source** - основной проект. Был открыт в конце 2021 и начале 2022 годов. Проект являлся от части портфолио, где я мог публиковать свои работы, но после перерос в что-то большее. Можно считать даже это какой-то маленькой компанией, так как все работы, которые публикуются имеют отношения к этому проекту. Название появилось от моего ника к которому я добавил слово "Source", что в переводе обозначает "Источник".
-  - [x] **RITCOT Design** - второстепенный проект, который связан с дизайном. Задумка открыть свою студию по разработке дизайна возникла ещё в 2020 году, но решился я сделать это только в 2021. Не получается уделять много времени данному проекту, как хотелось бы, к сожалению, но он активен и работает по сей день.
-  - [ ] **Jetix Studio** - проект, который открылся в 2020 году и основная задача и цель проекта была - разработка мобильных игр. От лица данной студии вышла одна игра, которая имела большое количество багов и вскоре данная студия была закрыта по моей инициативе.
+  - [x] **NoVate Design** - второстепенный проект, который связан с дизайном. Задумка открыть свою студию по разработке дизайна возникла ещё в 2020 году, но решился я сделать это только в 2021. Не получается уделять много времени данному проекту, как хотелось бы, к сожалению. В начале 2024 года студия потерпела ребрендинг и сменила название на "NoVate Design".
+  - [x] **NoVate LTD** - проект, который открылся в 2020 году под торговой маркой "Jetix Studio" и основная задача и цель проекта была - разработка мобильных игр. От лица данной студии вышла одна игра, которая имела большое количество багов и вскоре данная студия была закрыта по моей инициативе. В 2024 году студия сделала ребрендинг и сменила своё название на "NoVate LTD".
 
   ---
 
